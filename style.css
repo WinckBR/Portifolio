@@ -44,7 +44,6 @@
 
 .show-menu #line1{
     transform: rotate(45deg) translate(-.3em, .65rem);;
-
 }
 
 .show-menu #line2{
@@ -86,7 +85,6 @@
 .show-menu .hamburguer:hover span{
     opacity: 1;
     transition: 1s;
-
 }
 
 header{
@@ -138,6 +136,7 @@ header{
     animation: moveBanner 1s 0.5s forwards;
 }
 
+
 .banner p{ /* Ajustes no parágrafo*/
     font-family: var(--font-secundary);
     color: #ffffff;
@@ -157,7 +156,6 @@ header{
     background: #0575E6;
     background: -webkit-linear-gradient(to right, #021B79, #0575E6);
     background: linear-gradient(to right, #021B79, #0575E6);
-
 
     padding: 1rem 3rem;
     border: none;
